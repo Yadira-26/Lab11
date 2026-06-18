@@ -92,7 +92,11 @@ var app = builder.Build();
 
 // Swagger
 app.UseSwagger();
-app.UseSwaggerUI();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Lab10 API V1");
+    c.RoutePrefix = string.Empty;
+});
 
 // HTTPS
 app.UseHttpsRedirection();
@@ -100,9 +104,6 @@ app.UseHttpsRedirection();
 // Authentication
 app.UseAuthentication();
 app.UseAuthorization();
-
-// Redirigir la raíz a Swagger
-app.MapGet("/", () => Results.Redirect("/swagger"));
 
 // Controllers
 app.MapControllers();
