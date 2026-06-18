@@ -101,6 +101,9 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
+// Redirigir la raíz a Swagger
+app.MapGet("/", () => Results.Redirect("/swagger"));
+
 // Controllers
 app.MapControllers();
 
