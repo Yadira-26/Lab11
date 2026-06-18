@@ -9,9 +9,9 @@ public class Repository<T>
     : IRepository<T>
     where T : class
 {
-    protected readonly AppDbContext Context;
+    protected readonly DbContext Context;
 
-    public Repository(AppDbContext context)
+    public Repository(DbContext context)
     {
         Context = context;
     }

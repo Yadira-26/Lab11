@@ -9,16 +9,19 @@ public class UserRepository
     : Repository<User>,
         IUserRepository
 {
+    private readonly AppDbContext _context;
+
     public UserRepository(
         AppDbContext context)
         : base(context)
     {
+        _context = context;
     }
 
     public async Task<User?> GetByUsernameAsync(
         string username)
     {
-        return await Context.Users
+        return await _context.Users
             .FirstOrDefaultAsync(
                 x => x.Username == username);
     }

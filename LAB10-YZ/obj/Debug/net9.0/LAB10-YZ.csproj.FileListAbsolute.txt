@@ -160,3 +160,11 @@ C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\obj\Debug\net9.0\LAB10-YZ.genrunti
 C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\obj\Debug\net9.0\ref\LAB10-YZ.dll
 C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\MediatR.dll
 C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\ClosedXML.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\RBush.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\LAB10-YZ\bin\Debug\net9.0\System.IO.Packaging.dll
