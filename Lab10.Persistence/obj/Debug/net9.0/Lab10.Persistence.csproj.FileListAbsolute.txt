@@ -1,0 +1,15 @@
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\bin\Debug\net9.0\Lab10.Persistence.deps.json
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\bin\Debug\net9.0\Lab10.Persistence.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\bin\Debug\net9.0\Lab10.Persistence.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\bin\Debug\net9.0\Lab10.Persistence.pdb
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.sourcelink.json
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\refint\Lab10.Persistence.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.pdb
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\Lab10.Persistence.genruntimeconfig.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Persistence\obj\Debug\net9.0\ref\Lab10.Persistence.dll

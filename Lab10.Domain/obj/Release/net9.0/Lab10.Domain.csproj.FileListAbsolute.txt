@@ -1,0 +1,15 @@
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\bin\Release\net9.0\Lab10.Domain.deps.json
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\bin\Release\net9.0\Lab10.Domain.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\bin\Release\net9.0\Lab10.Domain.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\bin\Release\net9.0\Lab10.Domain.pdb
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.sourcelink.json
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\refint\Lab10.Domain.dll
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.pdb
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\Lab10.Domain.genruntimeconfig.cache
+C:\Users\ASUS\RiderProjects\LAB10-YZ\Lab10.Domain\obj\Release\net9.0\ref\Lab10.Domain.dll
