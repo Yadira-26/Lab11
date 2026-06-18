@@ -1,7 +1,7 @@
 using Lab10.Domain.DTOs;
+using Lab10.Domain.Entities;
 using Lab10.Domain.Ports.Repository;
 using Lab10.Infrastructure.Context;
-using Lab10.Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Lab10.Infrastructure.Repository;

@@ -1,5 +1,5 @@
 using Lab10.Domain.DTOs;
-using Lab10.Infrastructure.Entities;
+using Lab10.Domain.Entities;
 
 namespace Lab10.Domain.Ports.Repository;
 
